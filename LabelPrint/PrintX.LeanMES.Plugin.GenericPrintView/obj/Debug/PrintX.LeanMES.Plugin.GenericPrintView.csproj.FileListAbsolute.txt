@@ -1,0 +1,4 @@
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.GenericPrintView.dll
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.GenericPrintView.pdb
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\obj\Debug\PrintX.LeanMES.Plugin.GenericPrintView.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\obj\Debug\PrintX.LeanMES.Plugin.GenericPrintView.pdb

@@ -1,0 +1,285 @@
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+D:\Tools\LEAN MES打印插件\LEAN MES打印插件2.2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe.config
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.exe
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\sktwebprinter.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.exe
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\sktwebprinter.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csprojResolveAssemblyReference.cache
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.csproj.GenerateResource.Cache

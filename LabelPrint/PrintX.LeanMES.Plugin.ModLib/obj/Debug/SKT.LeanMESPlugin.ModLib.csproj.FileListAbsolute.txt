@@ -1,0 +1,5 @@
+E:\资料分日期\2017-5-9\LabelPrint\ModLib\bin\Debug\SKT.LeanMES.Plugin.ModLib.dll
+E:\资料分日期\2017-5-9\LabelPrint\ModLib\bin\Debug\SKT.LeanMES.Plugin.ModLib.pdb
+E:\资料分日期\2017-5-9\LabelPrint\ModLib\obj\Debug\SKT.LeanMESPlugin.ModLib.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-9\LabelPrint\ModLib\obj\Debug\SKT.LeanMES.Plugin.ModLib.dll
+E:\资料分日期\2017-5-9\LabelPrint\ModLib\obj\Debug\SKT.LeanMES.Plugin.ModLib.pdb

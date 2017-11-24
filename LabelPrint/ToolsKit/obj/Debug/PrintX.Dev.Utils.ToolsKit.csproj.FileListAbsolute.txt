@@ -1,0 +1,6 @@
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.Dev.Utils.ToolsKit.dll.config
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.Dev.Utils.ToolsKit.dll
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.Dev.Utils.ToolsKit.pdb
+E:\sharp1234\branches\master\LabelPrint\ToolsKit\obj\Debug\PrintX.Dev.Utils.ToolsKit.dll
+E:\sharp1234\branches\master\LabelPrint\ToolsKit\obj\Debug\PrintX.Dev.Utils.ToolsKit.pdb
+E:\sharp1234\branches\master\LabelPrint\ToolsKit\obj\Debug\PrintX.Dev.Utils.ToolsKit.csprojResolveAssemblyReference.cache

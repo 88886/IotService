@@ -1,0 +1,11 @@
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\PrintX.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\PrintX.LeanMES.Plugin.SerialPort.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\PrintX.LeanMES.Plugin.SerialPort.pdb
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\PrintX.LeanMES.Plugin.SerialPort.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\PrintX.LeanMES.Plugin.SerialPort.pdb
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.SerialPort.dll
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.SerialPort.pdb

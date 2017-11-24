@@ -1,0 +1,19 @@
+D:\FormBuilder\ModbusPollCS\Modbus Poll CS\ModLib\bin\Debug\ModLib.dll
+D:\FormBuilder\ModbusPollCS\Modbus Poll CS\ModLib\bin\Debug\ModLib.pdb
+D:\FormBuilder\ModbusPollCS\Modbus Poll CS\ModLib\obj\Debug\ModLib.dll
+D:\FormBuilder\ModbusPollCS\Modbus Poll CS\ModLib\obj\Debug\ModLib.pdb
+E:\资料分日期\2017-5-1\芬妮克孜设备\工装校验\ModbusPollCS\Modbus Poll CS\ModLib\bin\Debug\ModLib.dll
+E:\资料分日期\2017-5-1\芬妮克孜设备\工装校验\ModbusPollCS\Modbus Poll CS\ModLib\bin\Debug\ModLib.pdb
+E:\资料分日期\2017-5-1\芬妮克孜设备\工装校验\ModbusPollCS\Modbus Poll CS\ModLib\obj\Debug\ModLib.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-1\芬妮克孜设备\工装校验\ModbusPollCS\Modbus Poll CS\ModLib\obj\Debug\ModLib.dll
+E:\资料分日期\2017-5-1\芬妮克孜设备\工装校验\ModbusPollCS\Modbus Poll CS\ModLib\obj\Debug\ModLib.pdb
+C:\Users\jackson.li\Desktop\Modbus Poll CS_update\Modbus Poll CS\ModLib\bin\Debug\ModLib.dll
+C:\Users\jackson.li\Desktop\Modbus Poll CS_update\Modbus Poll CS\ModLib\bin\Debug\ModLib.pdb
+C:\Users\jackson.li\Desktop\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.csprojResolveAssemblyReference.cache
+C:\Users\jackson.li\Desktop\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.dll
+C:\Users\jackson.li\Desktop\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.pdb
+D:\公司项目\广州PHNIX（项目二期)\程式\设备对接安装包\芬尼克兹设备对接最新安装包\设备对接最新包\工装校验\Modbus Poll CS_update\Modbus Poll CS\ModLib\bin\Debug\ModLib.dll
+D:\公司项目\广州PHNIX（项目二期)\程式\设备对接安装包\芬尼克兹设备对接最新安装包\设备对接最新包\工装校验\Modbus Poll CS_update\Modbus Poll CS\ModLib\bin\Debug\ModLib.pdb
+D:\公司项目\广州PHNIX（项目二期)\程式\设备对接安装包\芬尼克兹设备对接最新安装包\设备对接最新包\工装校验\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.csprojResolveAssemblyReference.cache
+D:\公司项目\广州PHNIX（项目二期)\程式\设备对接安装包\芬尼克兹设备对接最新安装包\设备对接最新包\工装校验\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.dll
+D:\公司项目\广州PHNIX（项目二期)\程式\设备对接安装包\芬尼克兹设备对接最新安装包\设备对接最新包\工装校验\Modbus Poll CS_update\Modbus Poll CS\ModLib\obj\Debug\ModLib.pdb

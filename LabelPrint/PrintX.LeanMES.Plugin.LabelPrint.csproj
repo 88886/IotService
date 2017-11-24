@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{93980C66-FE84-4912-A9B6-01DC0E68809A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <AssemblyName>PrintX.LeanMES.Plugin.LabelPrint</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>PrintX.LeanMES.Plugin.LabelPrint</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>libs\</OutputPath>
+    <WarningLevel>3</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>libs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>libs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json2">
+      <HintPath>libs\Newtonsoft.Json2.dll</HintPath>
+    </Reference>
+    <Reference Include="SKT.Dev.Utils.ToolsKit">
+      <HintPath>ToolsKit\bin\Debug\SKT.Dev.Utils.ToolsKit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System" />
+    <Reference Include="WebSocket4Net, Version=0.14.1.0, Culture=neutral, PublicKeyToken=eb4e154b696bf72a, processorArchitecture=MSIL">
+      <HintPath>packages\WebSocket4Net.0.14.1\lib\net40\WebSocket4Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Application.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Document.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Documents.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\FormVariables.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Free.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\IApplication.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\IDocument.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\INotifyApplicationEvent.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\INotifyApplicationEvent_Event.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\INotifyDocumentEvent.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\INotifyDocumentEvent_Event.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Printer.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\LabelManager2\Variables.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\LabelData.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\LabelInfo.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\Printer.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\PrintHlper.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\RawPrinterHelper.cs" />
+    <Compile Include="PrintX.LeanMES.Plugin.LabelPrintManager\PrintX.LeanMES.Plugin.LabelPrint\XmlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

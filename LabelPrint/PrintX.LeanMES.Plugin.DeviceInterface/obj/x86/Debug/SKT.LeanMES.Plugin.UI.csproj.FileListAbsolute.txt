@@ -1,0 +1,513 @@
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+D:\打印插件优化版\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+D:\打印插件优化版\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+E:\研发部\打印\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.manifest
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.application
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe.manifest
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.application
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.config
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe.manifest
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.application
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\深刻特打印插件.exe
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\MySql.Data.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDao.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKTDataStructure.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深科特websocket打印.Properties.Resources.resources
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.exe.manifest
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\深科特websocket打印\obj\x86\Debug\深刻特打印插件.application
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.UI.exe.config
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.UI.exe.manifest
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.UI.application
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.UI.exe
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.UI.pdb
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\IrisSkin2.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\log4net.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\Nancy.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\Nancy.Hosting.Self.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.Dev.Utils.ToolsKit.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Common.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.Facility.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketBase.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketEngine.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperSocket.SocketService.exe
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SuperWebSocket.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\WebSocket4Net.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\AjaxPro.2.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\NPOI.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\NPOI.OOXML.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\ServiceStack.Redis.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\NPOI.OpenXml4Net.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\ServiceStack.Interfaces.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\ServiceStack.Text.dll
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.Dev.Utils.ToolsKit.pdb
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\bin\Debug\NPOI.xml
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.Properties.Resources.resources
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.exe.manifest
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.application
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.exe
+E:\资料分日期\2017-5-9\LabelPrint\深科特websocket打印\obj\x86\Debug\SKT.LeanMES.Plugin.UI.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.Properties.Resources.resources
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\IrisSkin2.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\log4net.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.Hosting.Self.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Common.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Facility.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketBase.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketEngine.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketService.exe
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperWebSocket.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\WebSocket4Net.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\AjaxPro.2.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OOXML.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Redis.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXml4Net.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Interfaces.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Text.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.xml
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.xml
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.xml
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.config
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.manifest
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.application
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe.manifest
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.application
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.xml
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.xml
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.config
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.manifest
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.application
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\IrisSkin2.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\log4net.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.Hosting.Self.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json2.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Common.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Facility.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketBase.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketEngine.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketService.exe
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperWebSocket.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\WebSocket4Net.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\AjaxPro.2.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OOXML.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Redis.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXml4Net.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Interfaces.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Text.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.xml
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.Properties.Resources.resources
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe.manifest
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.application
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.config
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.manifest
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.application
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\IrisSkin2.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\log4net.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.Hosting.Self.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json2.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Common.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Facility.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketBase.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketEngine.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketService.exe
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperWebSocket.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\WebSocket4Net.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\AjaxPro.2.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Redis.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OOXML.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Interfaces.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Text.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.xml
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.PrintService.Form1.resources
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.Properties.Resources.resources
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe.manifest
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.application
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csprojResolveAssemblyReference.cache
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.PrintService.Form1.resources
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.Properties.Resources.resources
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\SKT.LeanMES.Plugin.UI.csproj.GenerateResource.Cache
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.config
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.manifest
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.application
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\IrisSkin2.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\log4net.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Nancy.Hosting.Self.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Newtonsoft.Json2.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Common.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.Facility.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketBase.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketEngine.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperSocket.SocketService.exe
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SuperWebSocket.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\WebSocket4Net.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\AjaxPro.2.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Redis.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OOXML.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Interfaces.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\ServiceStack.Text.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.OpenXml4Net.dll
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Autofac.Configuration.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Common.Logging.Core.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\Quartz.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.Dev.Utils.ToolsKit.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.ModLib.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\NPOI.xml
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe.manifest
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.application
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.exe
+E:\10\2017-5-9\LabelPrint\SKTDeviceInterface\obj\x86\Debug\深科特设备接口服务1.0.pdb
+E:\sharp1234\branches\master\LabelPrint\SKTDeviceInterface\bin\Debug\深科特设备接口服务1.0.exe.config

@@ -1,0 +1,202 @@
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印最新源码\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.csprojResolveAssemblyReference.cache
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\jebel.liu\Desktop\2017-3-20-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\2017-3-22\2017-3-22-debug\2017-3-22-debug\2017-3-20-debug\2017-3-20-debug\LEAN MES打印插件2.2.2-20170320\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\hongqing.wang\Desktop\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\MySql.Data.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDao.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\SKTDataStructure.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\bin\Debug\WebSocket4Net.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Users\item.wu\Desktop\2017-3-27\2017-3-27\LEAN MES打印插件2.2.2\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.csprojResolveAssemblyReference.cache
+D:\打印插件优化版\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\打印插件优化版\LabelPrint\bin\Debug\MySql.Data.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\SKTDao.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\SKTDataStructure.dll
+D:\打印插件优化版\LabelPrint\bin\Debug\WebSocket4Net.dll
+D:\打印插件优化版\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\打印插件优化版\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\MySql.Data.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\SKTDao.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\MySql.Data.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\SKTDao.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.csprojResolveAssemblyReference.cache
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\MySql.Data.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\SKTDao.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\研发部\打印\LabelPrint\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\研发部\打印\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\研发部\打印\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\MySql.Data.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDao.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDataStructure.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\bin\Debug\WebSocket4Net.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\MySql.Data.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDao.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\MySql.Data.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDao.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\MySql.Data.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\SKTDao.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\资料分日期\2017-5-9\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\资料分日期\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.csprojResolveAssemblyReference.cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\MySql.Data.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\SKTDao.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\MySql.Data.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\SKTDao.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\SKTDataStructure.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\bin\Debug\WebSocket4Net.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.csprojResolveAssemblyReference.cache
+E:\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\10\2017-5-9\LabelPrint\bin\Debug\MySql.Data.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\Newtonsoft.Json2.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\SKTDao.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\SKTDataStructure.dll
+E:\10\2017-5-9\LabelPrint\bin\Debug\WebSocket4Net.dll
+E:\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\10\2017-5-9\LabelPrint\obj\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb

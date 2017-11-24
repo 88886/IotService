@@ -1,0 +1,5 @@
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\bin\Debug\SKT.LeanMES.Plugin.GenericPrintView.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\bin\Debug\SKT.LeanMES.Plugin.GenericPrintView.pdb
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\obj\Debug\SKT.LeanMES.Plugin.GenericPrintView.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\obj\Debug\SKT.LeanMES.Plugin.GenericPrintView.pdb
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.GenericPrintView\obj\Debug\SKT.LeanMES.Plugin.GenericPrintView.csprojResolveAssemblyReference.cache

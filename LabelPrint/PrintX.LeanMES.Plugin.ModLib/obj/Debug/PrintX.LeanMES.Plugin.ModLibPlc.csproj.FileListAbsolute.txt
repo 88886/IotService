@@ -1,0 +1,14 @@
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\Newtonsoft.Json.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\SuperSocket.Common.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\SuperSocket.Facility.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\SuperSocket.SocketBase.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\SuperSocket.SocketEngine.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\SuperWebSocket.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\WebSocket4Net.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\obj\Debug\PrintX.LeanMES.Plugin.ModLibPlc.csprojResolveAssemblyReference.cache
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\PrintX.LeanMES.Plugin.ModLib.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\bin\Debug\PrintX.LeanMES.Plugin.ModLib.pdb
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\obj\Debug\PrintX.LeanMES.Plugin.ModLib.dll
+E:\sharp1234\branches\master\LabelPrint\SKT.LeanMES.Plugin.ModLib\obj\Debug\PrintX.LeanMES.Plugin.ModLib.pdb
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.ModLib.dll
+E:\sharp1234\branches\master\LabelPrint\libs\PrintX.LeanMES.Plugin.ModLib.pdb

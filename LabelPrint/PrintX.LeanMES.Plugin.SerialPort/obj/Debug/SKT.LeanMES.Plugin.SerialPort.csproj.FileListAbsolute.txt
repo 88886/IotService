@@ -1,0 +1,66 @@
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+D:\打印插件优化版\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\研发部\打印\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SysTimer.dll
+E:\资料分日期\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SerialPort.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\Newtonsoft.Json.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.SocketBase.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperWebSocket.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SuperSocket.Common.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\bin\Debug\SKT.LeanMES.Plugin.SysTimer.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.csprojResolveAssemblyReference.cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.SerialPort\obj\Debug\SKT.LeanMES.Plugin.SerialPort.pdb

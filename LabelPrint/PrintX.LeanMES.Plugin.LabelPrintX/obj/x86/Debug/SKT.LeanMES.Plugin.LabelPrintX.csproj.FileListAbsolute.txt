@@ -1,0 +1,165 @@
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\bin\Debug\Newtonsoft.Json2.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+C:\Program Files (x86)\深圳市深科特信息技术有限公司\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\Newtonsoft.Json2.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\front-end\LEAN MES打印插件2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\工作\合众思壮\打印插件\LEAN MES打印插件2.2.2.2.2\LEAN MES打印插件2.2.2\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\打印插件优化版\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\打印插件优化版\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\打印插件优化版\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+D:\打印插件优化版\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\打印插件优化版\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\打印插件优化版\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\Install\Tools\SKT\打印插件\9.0\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\打印插件最新版本\LabelPrint20170422\LabelPrint20170422\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\研发部\打印\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\资料分日期\2017-5-2打印-彭慧\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\项目相关代码程序\打印\LEAN MES打印插件\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-8\LabelPrint\LabelPrint\LabelPrint\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\资料分日期\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\tools\2017\09\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+D:\Documents\Tencent Files\1950727382\FileRecv\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\10\2017-5-9\LabelPrint\PrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\10\2017-5-9\LabelPrint\PrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\10\2017-5-9\LabelPrint\PrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrint.resources
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.LabelPrintNormal.resources
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csproj.GenerateResource.Cache
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\bin\Debug\Newtonsoft.Json2.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\bin\Debug\SKT.LeanMES.Plugin.LabelPrintDll.pdb
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.csprojResolveAssemblyReference.cache
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.dll
+E:\10\2017-5-9\LabelPrint\SKT.LeanMES.Plugin.LabelPrintX\obj\x86\Debug\SKT.LeanMES.Plugin.LabelPrintX.pdb
